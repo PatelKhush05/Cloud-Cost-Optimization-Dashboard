@@ -119,11 +119,11 @@ The Grafana dashboard provides visibility into:
 
 ### Grafana Dashboard
 
-<img src="screenshots/grafana-dashboard.png" width="900">
+<img src="Screenshots/grafana-dashboard.png" width="900">
 
 ### FastAPI Swagger Documentation
 
-<img src="screenshots/fastapi-swagger.png" width="900">
+<img src="Screenshots/fastapi-swagger.png" width="900">
 
 ---
 
